@@ -1,0 +1,81 @@
+,null_count_test,dtype_test,null_count_train,dtype_train,null_ratio_train,null_ratio_test,eq_dtype,class
+1st Flr SF,0.0,int64,0,int64,0.0,0.0,True,Continuous
+2nd Flr SF,0.0,int64,0,int64,0.0,0.0,True,Continuous
+3Ssn Porch,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Alley,820.0,object,1911,object,0.931740614334471,0.9339407744874715,True,Nominal
+Bedroom AbvGr,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Bldg Type,0.0,object,0,object,0.0,0.0,True,Nominal
+Bsmt Cond,25.0,object,55,object,0.02681618722574354,0.02847380410022779,True,Ordinal
+Bsmt Exposure,25.0,object,58,object,0.028278888347147733,0.02847380410022779,True,Ordinal
+Bsmt Full Bath,0.0,int64,2,float64,0.0009751340809361287,0.0,False,Discrete
+Bsmt Half Bath,0.0,int64,2,float64,0.0009751340809361287,0.0,False,Discrete
+Bsmt Qual,25.0,object,55,object,0.02681618722574354,0.02847380410022779,True,Ordinal
+Bsmt Unf SF,0.0,int64,1,float64,0.00048756704046806434,0.0,False,Continuous
+BsmtFin SF 1,0.0,int64,1,float64,0.00048756704046806434,0.0,False,Continuous
+BsmtFin SF 2,0.0,int64,1,float64,0.00048756704046806434,0.0,False,Continuous
+BsmtFin Type 1,25.0,object,55,object,0.02681618722574354,0.02847380410022779,True,Ordinal
+BsmtFin Type 2,25.0,object,56,object,0.027303754266211604,0.02847380410022779,True,Ordinal
+Central Air,0.0,object,0,object,0.0,0.0,True,Nominal
+Condition 1,0.0,object,0,object,0.0,0.0,True,Nominal
+Condition 2,0.0,object,0,object,0.0,0.0,True,Nominal
+Electrical,1.0,object,0,object,0.0,0.0011389521640091116,True,Ordinal
+Enclosed Porch,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Exter Cond,0.0,object,0,object,0.0,0.0,True,Ordinal
+Exter Qual,0.0,object,0,object,0.0,0.0,True,Ordinal
+Exterior 1st,0.0,object,0,object,0.0,0.0,True,Nominal
+Exterior 2nd,0.0,object,0,object,0.0,0.0,True,Nominal
+Fence,706.0,object,1651,object,0.8049731838127743,0.8041002277904328,True,Ordinal
+Fireplace Qu,422.0,object,1000,object,0.48756704046806437,0.4806378132118451,True,Ordinal
+Fireplaces,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Foundation,0.0,object,0,object,0.0,0.0,True,Nominal
+Full Bath,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Functional,0.0,object,0,object,0.0,0.0,True,Ordinal
+Garage Area,0.0,int64,1,float64,0.00048756704046806434,0.0,False,Continuous
+Garage Cars,0.0,int64,1,float64,0.00048756704046806434,0.0,False,Discrete
+Garage Cond,45.0,object,114,object,0.05558264261335934,0.05125284738041002,True,Ordinal
+Garage Finish,45.0,object,114,object,0.05558264261335934,0.05125284738041002,True,Ordinal
+Garage Qual,45.0,object,114,object,0.05558264261335934,0.05125284738041002,True,Ordinal
+Garage Type,44.0,object,113,object,0.05509507557289127,0.05011389521640091,True,Nominal
+Garage Yr Blt,45.0,float64,114,float64,0.05558264261335934,0.05125284738041002,True,Discrete
+Gr Liv Area,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Half Bath,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Heating,0.0,object,0,object,0.0,0.0,True,Nominal
+Heating QC,0.0,object,0,object,0.0,0.0,True,Ordinal
+House Style,0.0,object,0,object,0.0,0.0,True,Nominal
+Kitchen AbvGr,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Kitchen Qual,0.0,object,0,object,0.0,0.0,True,Ordinal
+Land Contour,0.0,object,0,object,0.0,0.0,True,Nominal
+Land Slope,0.0,object,0,object,0.0,0.0,True,Ordinal
+Lot Area,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Lot Config,0.0,object,0,object,0.0,0.0,True,Nominal
+Lot Frontage,160.0,float64,330,float64,0.16089712335446124,0.18223234624145787,True,Continuous
+Lot Shape,0.0,object,0,object,0.0,0.0,True,Ordinal
+Low Qual Fin SF,0.0,int64,0,int64,0.0,0.0,True,Continuous
+MS SubClass,0.0,int64,0,int64,0.0,0.0,True,Nominal
+MS Zoning,0.0,object,0,object,0.0,0.0,True,Nominal
+Mas Vnr Area,1.0,float64,22,float64,0.010726474890297415,0.0011389521640091116,True,Continuous
+Mas Vnr Type,1.0,object,22,object,0.010726474890297415,0.0011389521640091116,True,Nominal
+Misc Feature,837.0,object,1986,object,0.9683081423695759,0.9533029612756264,True,Nominal
+Misc Val,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Mo Sold,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Neighborhood,0.0,object,0,object,0.0,0.0,True,Nominal
+Open Porch SF,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Overall Cond,0.0,int64,0,int64,0.0,0.0,True,Ordinal
+Overall Qual,0.0,int64,0,int64,0.0,0.0,True,Ordinal
+PID,0.0,int64,0,int64,0.0,0.0,True,Nominal
+Paved Drive,0.0,object,0,object,0.0,0.0,True,Ordinal
+Pool Area,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Pool QC,874.0,object,2042,object,0.9956118966357874,0.9954441913439636,True,Ordinal
+Roof Matl,0.0,object,0,object,0.0,0.0,True,Nominal
+Roof Style,0.0,object,0,object,0.0,0.0,True,Nominal
+Sale Type,0.0,object,0,object,0.0,0.0,True,Nominal
+SalePrice,,,0,int64,0.0,,False,Continuous
+Screen Porch,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Street,0.0,object,0,object,0.0,0.0,True,Nominal
+TotRms AbvGrd,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Total Bsmt SF,0.0,int64,1,float64,0.00048756704046806434,0.0,False,Continuous
+Utilities,0.0,object,0,object,0.0,0.0,True,Ordinal
+Wood Deck SF,0.0,int64,0,int64,0.0,0.0,True,Continuous
+Year Built,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Year Remod/Add,0.0,int64,0,int64,0.0,0.0,True,Discrete
+Yr Sold,0.0,int64,0,int64,0.0,0.0,True,Discrete
